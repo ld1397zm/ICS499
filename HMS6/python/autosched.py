@@ -106,7 +106,7 @@ class AutoScheduler:
         "Find and return a list of all rooms elligible for cleaning"
         for room in db.getSched():
             if room.roomStatus.casefold() == NEED_CLEAN.casefold():
-                if (room.roomAlert.casefold() == ROOM_AVAIL.casefold()) || (room.roomAlert == ""):
+                if room.roomAlert.casefold() == ROOM_AVAIL.casefold() or room.roomAlert == "":
                     ret.append(room)
 
         return ret 
