@@ -1,0 +1,31 @@
+Floor #,Room #,Employee,Occupied ,Alert,Status
+1,100,Joe Smith,Yes,Do Not Disturb,Clean
+1,101,Joe Smith,Yes,Do Not Disturb,Clean
+1,102,Joe Smith,Yes,Make Up My Room,Un-Cleaned
+1,103,Joe Smith,No,,
+1,104,Joe Smith,No,,
+1,105,Joe Smith,Yes,,
+1,106,Joe Smith,Yes,Make Up My Room,Un-Cleaned
+1,107,Joe Smith,Yes,,
+1,108,Joe Smith,Yes,,
+1,109,Joe Smith,No,,
+2,200,Rose Gost,No,,
+2,201,Rose Gost,Yes,Make Up My Room,Clean
+2,202,Rose Gost,Yes,,
+2,203,Rose Gost,Yes,Do Not Disturb,Un-Cleaned
+2,204,Rose Gost,Yes,,
+2,205,Rose Gost,No,,
+2,206,Rose Gost,No,,
+2,207,Rose Gost,Yes,,
+2,208,Rose Gost,Yes,,
+2,209,Rose Gost,Yes,,
+3,300,Nancy William,Yes,Make Up My Room,
+3,301,Nancy William,No,,
+3,302,Nancy William,No,,
+3,303,Nancy William,Yes,Do Not Disturb,Clean
+3,304,Nancy William,Yes,,
+3,305,Nancy William,Yes,,
+3,306,Nancy William,Yes,,
+3,307,Nancy William,No,,
+3,308,Nancy William,No,,
+3,309,Nancy William,Yes,,
